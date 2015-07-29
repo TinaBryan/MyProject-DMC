@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html5>
+	<head>
+		<meta charset="utf-8">
+		<title>David Maddox Creative</title>
+
+		<link href="styles/main.css" rel="stylesheet"/>
+	</head>
+
+	<body style="background-color: steel;">
+		<center>
+		<strong>David Maddox Creative</strong>
+
+		<div class="image">
+			<img src="img/FattestCity.png" height="60px" width="40/px"/>
+		</div>
+
+		<a href=""></a>
+		
+		<p>This work represents a collaboration of ideas, problem-solving and hard work with a multitude of talented people over the course of my career.Some have been clients, some have been colleagues.  I am privileged to count many of them as friends.</p>
+
+		<p>Thank you for visiting.  If you see something that interests you and would like to work together I would love to hear from you.</p>
+		</center>
+
+		<!-- <Isotope -->
+		 <!-- <script src="/vender/v.javaScript/isotope.pkgd.min.js"></script> -->
+
+		 <!-- Masonry -->
+		 <!-- in HTML -->
+		<!--<div class="grid js-masonry"
+		  data-masonry-options='{ "columnWidth": 200, "itemSelector": ".grid-item" }'> -->
+
+	</body>
+
+</html5>
